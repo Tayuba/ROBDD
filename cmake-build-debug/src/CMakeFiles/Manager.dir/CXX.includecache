@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.cpp
+Manager.h
+C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.h
+iterator
+-
+algorithm
+-
+
+C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.h
+ManagerInterface.h
+C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/ManagerInterface.h
+vector
+-
+
+C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/ManagerInterface.h
+string
+-
+set
+-
+

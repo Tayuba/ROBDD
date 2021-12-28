@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libManager.a CMakeFiles/Manager.dir/Manager.cpp.obj
+C:\MinGW\bin\ranlib.exe libManager.a
