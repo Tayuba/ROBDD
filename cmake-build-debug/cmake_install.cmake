@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ayuba/CLionProjects/VDSProject_Group4
+# Install script for directory: C:/Users/ayuba/CLionProjects/ROBDD
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
