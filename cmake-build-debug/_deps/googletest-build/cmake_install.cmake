@@ -1,5 +1,4 @@
-# Install script for directory: C:/Users/ayuba/CLionProjects/
-/cmake-build-debug/_deps/googletest-src
+# Install script for directory: C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

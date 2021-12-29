@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.cpp" "C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/CMakeFiles/Manager.dir/Manager.cpp.obj"
+  "C:/Users/ayuba/CLionProjects/ROBDD/src/Manager.cpp" "C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/CMakeFiles/Manager.dir/Manager.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

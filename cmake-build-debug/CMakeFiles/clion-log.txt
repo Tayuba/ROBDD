@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\ayuba\CLionProjects\VDSProject_Group4
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\ayuba\CLionProjects\ROBDD
 -- The CXX compiler identification is GNU 9.2.0
 -- The C compiler identification is GNU 9.2.0
 -- Detecting CXX compiler ABI info
@@ -14,4 +14,4 @@
 -- Found Python: C:/Users/ayuba/AppData/Local/Programs/Python/Python39/python.exe (found version "3.9.6") found components: Interpreter 
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug
+-- Build files have been written to: C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug

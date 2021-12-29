@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.cpp
+C:/Users/ayuba/CLionProjects/ROBDD/src/Manager.cpp
 Manager.h
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/Manager.h
 iterator
 -
 algorithm
 -
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/Manager.h
 ManagerInterface.h
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/ManagerInterface.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/ManagerInterface.h
 vector
 -
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/ManagerInterface.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/ManagerInterface.h
 string
 -
 set

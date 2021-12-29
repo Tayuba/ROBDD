@@ -6,27 +6,27 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/Manager.h
 ManagerInterface.h
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/ManagerInterface.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/ManagerInterface.h
 vector
 -
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/ManagerInterface.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/ManagerInterface.h
 string
 -
 set
 -
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test/Tests.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/test/Tests.h
 gtest/gtest.h
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test/gtest/gtest.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/test/gtest/gtest.h
 ../Manager.h
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/Manager.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/Manager.h
 
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test/main_test.cpp
+C:/Users/ayuba/CLionProjects/ROBDD/src/test/main_test.cpp
 Tests.h
-C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test/Tests.h
+C:/Users/ayuba/CLionProjects/ROBDD/src/test/Tests.h
 
 _deps/googletest-src/googletest/include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h

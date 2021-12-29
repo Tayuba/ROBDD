@@ -1,7 +1,7 @@
 # Make file names absolute:
 #
-get_filename_component(filename "C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip" ABSOLUTE)
-get_filename_component(directory "C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src" ABSOLUTE)
+get_filename_component(filename "C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip" ABSOLUTE)
+get_filename_component(directory "C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src" ABSOLUTE)
 
 message(STATUS "extracting...
      src='${filename}'

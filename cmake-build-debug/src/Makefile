@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ayuba\CLionProjects\VDSProject_Group4
+CMAKE_SOURCE_DIR = C:\Users\ayuba\CLionProjects\ROBDD
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -131,14 +131,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\CMakeFiles C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\src\\CMakeFiles\progress.marks
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\CMakeFiles 0
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\CMakeFiles C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\src\\CMakeFiles\progress.marks
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/clean
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/clean
 .PHONY : clean
 
 # The main clean target
@@ -147,22 +147,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/preinstall
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/preinstall
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/CMakeFiles/Manager.dir/rule:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/CMakeFiles/Manager.dir/rule
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/CMakeFiles/Manager.dir/rule
 .PHONY : src/CMakeFiles/Manager.dir/rule
 
 # Convenience name for target.
@@ -171,7 +171,7 @@ Manager: src/CMakeFiles/Manager.dir/rule
 
 # fast build rule for target.
 Manager/fast:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/build
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/build
 .PHONY : Manager/fast
 
 Manager.obj: Manager.cpp.obj
@@ -179,7 +179,7 @@ Manager.obj: Manager.cpp.obj
 
 # target to build an object file
 Manager.cpp.obj:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/Manager.cpp.obj
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/Manager.cpp.obj
 .PHONY : Manager.cpp.obj
 
 Manager.i: Manager.cpp.i
@@ -187,7 +187,7 @@ Manager.i: Manager.cpp.i
 
 # target to preprocess a source file
 Manager.cpp.i:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/Manager.cpp.i
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/Manager.cpp.i
 .PHONY : Manager.cpp.i
 
 Manager.s: Manager.cpp.s
@@ -195,7 +195,7 @@ Manager.s: Manager.cpp.s
 
 # target to generate assembly for a file
 Manager.cpp.s:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/Manager.cpp.s
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\Manager.dir\build.make src/CMakeFiles/Manager.dir/Manager.cpp.s
 .PHONY : Manager.cpp.s
 
 # Help Target
@@ -225,6 +225,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

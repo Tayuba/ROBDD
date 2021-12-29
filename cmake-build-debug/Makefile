@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ayuba\CLionProjects\VDSProject_Group4
+CMAKE_SOURCE_DIR = C:\Users\ayuba\CLionProjects\ROBDD
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -131,9 +131,9 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\CMakeFiles C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\CMakeFiles C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

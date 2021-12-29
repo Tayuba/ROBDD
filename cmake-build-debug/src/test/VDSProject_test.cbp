@@ -8,26 +8,26 @@
 		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\googletest-src\;CMake Files\cmake-build-debug\_deps\googletest-src\googlemock\;CMake Files\cmake-build-debug\_deps\googletest-src\googlemock\cmake\;CMake Files\cmake-build-debug\_deps\googletest-src\googletest\;CMake Files\cmake-build-debug\_deps\googletest-src\googletest\cmake\;CMake Files\src\;CMake Files\src\test\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test"/>
+				<Option working_dir="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="VDSProject_test">
-				<Option output="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/VDSProject_test.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test"/>
+				<Option output="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/VDSProject_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src"/>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test"/>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/include"/>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/src"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/src/test"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/include"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
@@ -36,23 +36,23 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 VDSProject_test"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 VDSProject_test"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="VDSProject_test/fast">
-				<Option output="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/VDSProject_test.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test"/>
+				<Option output="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/VDSProject_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src"/>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test"/>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/include"/>
-					<Add directory="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/src"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/src/test"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/include"/>
+					<Add directory="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
@@ -61,50 +61,50 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 VDSProject_test/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 VDSProject_test/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/src/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test/main_test.cpp">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/src/test/main_test.cpp">
 			<Option target="VDSProject_test"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/CMakeLists.txt">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/CMakeLists.txt">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googlemock/CMakeLists.txt">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googlemock/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googlemock\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googlemock/cmake/gmock.pc.in">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googlemock/cmake/gmock.pc.in">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/CMakeLists.txt">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googletest\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/cmake/Config.cmake.in">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/cmake/Config.cmake.in">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/cmake/gtest.pc.in">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/cmake/gtest.pc.in">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/cmake/gtest_main.pc.in">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/cmake/gtest_main.pc.in">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-src/googletest/cmake/internal_utils.cmake">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-src/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\googletest-src\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/CMakeLists.txt">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\"/>
 		</Unit>
-		<Unit filename="C:/Users/ayuba/CLionProjects/VDSProject_Group4/src/test/CMakeLists.txt">
+		<Unit filename="C:/Users/ayuba/CLionProjects/ROBDD/src/test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\test\"/>
 		</Unit>
 	</Project>
