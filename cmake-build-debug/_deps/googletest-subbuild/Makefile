@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\_deps\googletest-subbuild
+CMAKE_SOURCE_DIR = C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\_deps\googletest-subbuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ayuba\CLionProjects\VDSProject_Group4\cmake-build-debug\_deps\googletest-subbuild
+CMAKE_BINARY_DIR = C:\Users\ayuba\CLionProjects\ROBDD\cmake-build-debug\_deps\googletest-subbuild
 
 #=============================================================================
 # Targets provided globally by CMake.
