@@ -8,6 +8,7 @@
 # KEY:TYPE=VALUE
 # KEY is the name of a variable in the cache.
 # TYPE is a hint to GUIs for the type of VALUE, DO NOT EDIT TYPE!.
+
 # VALUE is the current value for the KEY.
 
 ########################
@@ -46,10 +47,10 @@ CMAKE_SKIP_RPATH:BOOL=NO
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-googletest-populate_BINARY_DIR:STATIC=C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-subbuild
+googletest-populate_BINARY_DIR:STATIC=C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-subbuild
 
 //Value Computed by CMake
-googletest-populate_SOURCE_DIR:STATIC=C:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-subbuild
+googletest-populate_SOURCE_DIR:STATIC=C:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-subbuild
 
 
 ########################
@@ -57,7 +58,7 @@ googletest-populate_SOURCE_DIR:STATIC=C:/Users/ayuba/CLionProjects/VDSProject_Gr
 ########################
 
 //This is the directory where this CMakeCache.txt was created
-CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/ayuba/CLionProjects/VDSProject_Group4/cmake-build-debug/_deps/googletest-subbuild
+CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/ayuba/CLionProjects/ROBDD/cmake-build-debug/_deps/googletest-subbuild
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
